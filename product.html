@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Product Detail</title>
+  <link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+/>
+  <link rel="stylesheet" href="products.css" />
+</head>
+
+<body class="dark-theme">
+    <section class="product-detail">
+        <div class="left-side">
+          <h1 id="product-name"></h1> <!-- Product name above image -->
+          <div class="image-gallery">
+            <img id="main-image" src="" alt="Main Product View" />
+            <div class="thumbnail-container" id="thumbnails"></div>
+          </div>
+        </div>
+      
+        <div class="product-info">
+          <p id="product-description"></p>
+          <p><strong>Price:</strong> <span id="product-price"></span></p>
+          <div class="colourssec">
+          <p style="color: black;"><strong>Available Colors:</strong> <div id="colors"></div></p>
+        </div>
+          <p><strong>Sizes:</strong> <div id="sizes"></div></p>
+          <p><strong>Printing Methods:</strong> <br>
+            <span id="printing-methods"></span></p>
+          <p><strong>Fabric:</strong><br> <span id="fabric"></span></p>
+        </div>
+      </section>
+
+      <div class="enquire">
+        <li><a href="https://wa.me/918778119280?text=I'm%20interested%20in%20placing%20an%20order" target="_blank"><i class="fab fa-whatsapp"></i> Order Now</a></li>
+        <li><a href="tel:+918778119280"><i class="fas fa-phone"></i> Order Now</a></li>
+      </div>
+      </div>
+      
+
+  <script src="products.js"></script>
+</body>
+</html>
