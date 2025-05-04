@@ -33,7 +33,7 @@ const products = {
       name: "Sports Apparel",
       description: "Performance fabrics for all your athletic needs.",
       price: "₹699",
-      images: ["images/sport1.jpg", "images/sport2.jpg"],
+      images: ["images/1.png", "images/2.png"],
       sizes: ["XS","S", "M", "L", "XL","XXL"],
       methods: "Sublimation, DTF",
       fabric: "Dry-Fit Polyester, Marse"
