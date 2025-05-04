@@ -32,7 +32,7 @@ const products = {
     sports: {
       name: "Sports Apparel",
       description: "Performance fabrics for all your athletic needs.",
-      price: "₹699",
+      price: "₹390",
       images: ["images/1.png", "images/2.png"],
       colors: ["All"],
       sizes: ["XS","S", "M", "L", "XL","XXL"],
