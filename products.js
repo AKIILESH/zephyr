@@ -34,6 +34,7 @@ const products = {
       description: "Performance fabrics for all your athletic needs.",
       price: "₹699",
       images: ["images/1.png", "images/2.png"],
+      colors: ["All"],
       sizes: ["XS","S", "M", "L", "XL","XXL"],
       methods: "Sublimation, DTF",
       fabric: "Dry-Fit Polyester, Marse"
