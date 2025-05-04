@@ -325,7 +325,8 @@ body.dark-theme {
     border-radius: 2px;
     transition: 0.3s;
   }
-.‎thumbnail-container{
+.‎thumbnail-container img{
     object-fit: contain;‎
+    height:180px;}
 
 
