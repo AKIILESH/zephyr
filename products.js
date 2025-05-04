@@ -3,7 +3,7 @@ const products = {
       name: "Polo T-shirt",
       description: "Classic style, perfect for both work and casual wear.",
       price: "₹280",
-      images: ["images/polo1.jpg", "images/polo2.jpg", "images/polo3.jpg"],
+      images: ["images/corporate.jpeg", "images/4.png.jpeg", "images/polo3.jpg"],
       colors: ["Black", "White", "Navy","Grey","Yellow"],
       sizes: ["XS","S", "M", "L", "XL","XXL"],
       methods: "DTF,Embroidery",
